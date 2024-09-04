@@ -1,1 +1,3 @@
-# Ikari backend
+# Django First project
+
+test project with django
